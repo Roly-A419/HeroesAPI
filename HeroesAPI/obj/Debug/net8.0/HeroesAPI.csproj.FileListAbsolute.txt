@@ -283,3 +283,4 @@
 /Users/RolyA419/RiderProjects/HeroesAPI/HeroesAPI/obj/Debug/net8.0/HeroesAPI.pdb
 /Users/RolyA419/RiderProjects/HeroesAPI/HeroesAPI/obj/Debug/net8.0/HeroesAPI.genruntimeconfig.cache
 /Users/RolyA419/RiderProjects/HeroesAPI/HeroesAPI/obj/Debug/net8.0/ref/HeroesAPI.dll
+/Users/RolyA419/RiderProjects/HeroesAPI/HeroesAPI/obj/Debug/net8.0/HeroesAPI.sourcelink.json

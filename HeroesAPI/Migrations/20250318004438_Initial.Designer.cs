@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace HeroesAPI.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250317232710_Initial")]
+    [Migration("20250318004438_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
